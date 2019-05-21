@@ -1,0 +1,9 @@
+{
+  "generator-agonb": {
+    "repository_url": "git@github.com:zhenkaGo/fake-backend-app.git",
+    "project_destination_path": "fake-backend-app",
+    "application_name": "fake",
+    "project_technology": "rubyonrails",
+    "database_type": "postgresql"
+  }
+}
